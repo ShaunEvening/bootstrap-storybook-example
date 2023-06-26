@@ -5,9 +5,8 @@
 </p>
 
 <a
-  href="https://stackblitz.com/github/storybookjs/sandboxes/tree/next/react-webpack/17-ts/after-storybook?preset=node"
-  >View it in Stackblitz</a
->
+  href="https://stackblitz.com/github/storybookjs/sandboxes/tree/next/react-webpack/17-ts/after-storybook?preset=node">
+  View it in Stackblitz</a>
 
 <h3>Testing instructions</h3>
 
